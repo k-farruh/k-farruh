@@ -5,12 +5,12 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Speech Accent Detection
-- 🌱 I’m currently learning  Cellular Network
-- 👯 I’m looking to collaborate on university for Deep Learning courses
+- 🔭 I’m currently working on GenAI/LLM/LLM-Agents/LLM-Tools
+- 🌱 I’m currently learning optimization of foundation models
+- 👯 I’m looking to collaborate with universities for GenAI courses
 - 📫 How to reach me: k.farruh@bk.ru
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love sports, open to lifting co-train or hiking.
+- ⚡ Fun fact: I love sports, and I am open to lifting, co-train, or hiking.
 
 
 ### Connect with me:
